@@ -1,0 +1,11 @@
+* index.html important. Reframes javascript into html format. Is technically the page you are displaying
+
+* package.json are dependencies. Scripts, etc
+* App css is style sheet, not needed for this tutorial so deleted
+* App.jsx allows you to write javascript within html blocks
+* You can do things like import fonts and stuff in index.html
+* App.jsx is thrown to main.jsx that renders that stuff onto index.html
+* This stuff is simply embedding javascript into regular html to provide
+some bits of functionality. You still need to format it via css.
+* .jsx lets you add javascript functionality to html elements ig? Maybe buttons and stuff like that
+*
